@@ -1,0 +1,7 @@
+---- Esse arquivo deveram vim com o seu Download da IA Ana  ----
+###                         Atenção! As perguntas devem ser escritos exatamente igual em baio               ### 
+---- Perguntas abaixo----
+
+1º - Qual o seu nome?
+2º - Pesquise para mim {Algo que voce deseja pesquisar} Exemplo: Pesquise para mim oque é linguagens de programação
+O motor de pesquisa é o google!
